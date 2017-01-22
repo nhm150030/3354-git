@@ -1,0 +1,6 @@
+(a) 7
+(b) Tue Jan 24 22:28:11 2017 -0600
+(c) git log shows commit logs, git status shows the current working tree status
+(d) Unstaged changes are changes to files currently being tracked by git but haven't been flaged to be avaible to be commited to the repo. Untracked changes are changes to files that could be tracked by git, but are not presently
+(e) Git checkout changes branches or restores to the current working tree state, git reset moves the current HEAD to the specified state.
+(f) Git will tell you to commit current changes and won't allow you to pull to the current branch
